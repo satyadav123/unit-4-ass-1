@@ -1,0 +1,8 @@
+const sum=require("./add.js")
+const substract=require("./substract.js")
+const multiply=require("./multiply.js")
+const divide=require("./divide.js")
+sum(5,7)
+substract(6,2)
+ multiply(4,2)
+  divide(4,2)
